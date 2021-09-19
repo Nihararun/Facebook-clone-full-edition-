@@ -1,1 +1,1 @@
-# Facebook-clone-full-edition-
+# facebook-clone-boilerplate
